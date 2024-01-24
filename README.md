@@ -8,6 +8,7 @@
  ### Questão 1 e Questão 2:
 
 &nbsp; ![img questao1](Screenshots/questao3.png)  &nbsp; &nbsp; ![img questao2](Screenshots/questao2.png) <br>
+<br>
 
  ### Questão 3 e Pontuação Final:
 &nbsp; ![img questao3](Screenshots/questao1.png) &nbsp; &nbsp;  ![img questao3](Screenshots/questao4.png) 
