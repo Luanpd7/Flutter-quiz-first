@@ -6,4 +6,5 @@
 
 ## Visão Geral
 
-![img questao1](Screenshots/questao.png)
+![img questao1](Screenshots/questao.png)  ![img questao1](Screenshots/questao2.png) ![img questao1](Screenshots/questao3.png)
+
