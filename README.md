@@ -1,16 +1,8 @@
-# projeto_pergunta
+# App Quiz
 
-A new Flutter project.
+## Descrição
 
-## Getting Started
+**[Bem vindo] ao projeto App Quiz,** este App é um simples projeto de quiz onde foi implementado juntamente com o curso que estou estudando. Neste projeto, haverá um quiz com 3 questões e, após o usuário pressionar a alternativa, a tela mudará para outra questão, após terminar o quiz dependendo da sua pontuação final o sistema retornará resposta como "Parabéns" , "Você é bom" , "Impressionante" e "Nivel jedi".
 
-This project is a starting point for a Flutter application.
+## Visão Geral
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
