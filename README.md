@@ -6,3 +6,4 @@
 
 ## Visão Geral
 
+ ![img tela.principal](/Screenshots/questao1)
